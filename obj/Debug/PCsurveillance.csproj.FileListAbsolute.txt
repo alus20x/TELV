@@ -1,0 +1,10 @@
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\PCsurveillance.exe.config
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\PCsurveillance.exe
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\PCsurveillance.pdb
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\Newtonsoft.Json.dll
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\Telegram.Bot.dll
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Debug\Newtonsoft.Json.xml
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\obj\Debug\PCsurveillance.csprojResolveAssemblyReference.cache
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\obj\Debug\PCsurveillance.exe
+c:\users\a0103\documents\visual studio 2017\Projects\PCsurveillance\obj\Debug\PCsurveillance.pdb

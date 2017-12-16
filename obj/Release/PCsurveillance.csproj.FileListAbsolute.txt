@@ -1,0 +1,12 @@
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Release\Newtonsoft.Json.dll
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Release\Telegram.Bot.dll
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Release\Newtonsoft.Json.xml
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\obj\Release\PCsurveillance.csprojResolveAssemblyReference.cache
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Release\INIFileParser.dll
+C:\Users\a0103\documents\visual studio 2017\Projects\PCsurveillance\bin\Release\INIFileParser.xml
+C:\Users\a0103\Documents\Visual Studio 2017\Projects\PCsurveillance\bin\Release\TELV.exe.config
+C:\Users\a0103\Documents\Visual Studio 2017\Projects\PCsurveillance\bin\Release\TELV.exe
+C:\Users\a0103\Documents\Visual Studio 2017\Projects\PCsurveillance\bin\Release\TELV.pdb
+C:\Users\a0103\Documents\Visual Studio 2017\Projects\PCsurveillance\obj\Release\TELV.exe
+C:\Users\a0103\Documents\Visual Studio 2017\Projects\PCsurveillance\obj\Release\TELV.pdb
