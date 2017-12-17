@@ -1,6 +1,8 @@
 # TELV
 TELV A.K.A TELegram remote control V(B)ot
 
+# [Download](https://github.com/lill74/TELV/releases/download/1.0/TELV.zip)
+
 ## 한글(Korean)
 
 텔레그램 기반의 컴퓨터 관리 프로그램입니다.
